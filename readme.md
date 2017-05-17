@@ -9,7 +9,7 @@ Each ceremony can be a good oportunity to show off the most recent development o
 
 ## What is a demonstration ?
 
-A demonstration is a privileged time shared between the complete developping team and stakeholders. It shall last no longer than 15 minutes.
+A demonstration is a privileged time shared between the scrum team and the stakeholders. It shall last no longer than 15 minutes.
 
 > I only believe what I can see.
 
@@ -40,6 +40,18 @@ A good demonstration is a prepared demonstration.
 * Make sure your staging environment is up and running. This environment, being the most flexible, is most likely the easiest one to play with. You don't want to introduce fake data in production during your demonstration, neither suffering from your local machine being slower than the production is.
 * Make sure you are connected to internet. You would not want to start your demonstration with problems.
 
+## Run your demonstration
+
+### Who should present ?
+
+Ideally, a developper of the technical team should lead the demonstration.
+* Scrum master may struggle preparing the working environment for the demonstration
+* Architects might not be aware of the full range of the features developped during the sprint, as they are commited to multiple project at once
+
+You may also offer any of the stakeholder to run the presentation. The demonstration shall not turn into a user feedback, but it will consequently increase interest of your stakeholder into your product. Especially if they are not themselves among the final users of the product.
+
+### How to present ?
+
 The guide line of your demonstration is the *past sprint goal*. But you shall adapt the features you want to show depending on your stakeholders presence during the last ceremonies.
 
 Insist on the weak points the product had before this sprint's developpment, and how beneficial your team is for your client's product.
@@ -51,7 +63,8 @@ None of the features you developped during the past sprint isn't worth being dem
 > Once the customer added, you are redirected to the list of existing customer.
 > We can now delete or update our newest customer using the corresponding buttons on the top left corner.
 
-Don't use tricky tools to speed up your demonstration. The persons that will use your product may not have your skills. They will feel outsided if they can't reproduce your exact gestures. Don't skip any part of the process you may assume obvious. You are familiar with the new features of the product, your stakeholders aren't.
+The persons that will use your product may not have your skills. During your demonstration, you are no longer a developper. You endorse the role of the final user of the product, act accordingly.
+They will feel outsided if they can't reproduce your exact gestures. Don't skip any part of the process you may assume obvious. You are familiar with the new features of the product, your stakeholders aren't.
 
 > When you click on the *add* button on the top left corner, you can add a new customer.
 > You're redirected to a new page asking you to fill in the customer's name and address.
@@ -65,8 +78,10 @@ When you need to fill in fake data to demonstrate your feature, use stakeholders
 > Edouard, let's fill you in !
 > ...
 
-Your audience has 2 focuses point you have to deal with :
+Like any presentation, your audience has 2 focuses point you have to deal with :
 * You
 * The screen you are using to broadcast your demonstration
 
-You want to make sure p
+You want to make sure they simultaneously see what you do and hear what you say. 
+* Describe what you do as you do it. If their no gesture linked to what you are saying, it might not be worth saying it at all. 
+* Don't excessively move your mouse or click anywhere. Fight your usual nervous tics. They should only see what needs to be done.
