@@ -1,4 +1,4 @@
-# How to impress your client with an outstanding demonstration
+# How to impress your stakeholders with an outstanding demonstration
 
 OPTION 1
 The review of each ceremony is one recurent opportunity to show your latest development to the stakeholders.
