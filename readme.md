@@ -83,5 +83,5 @@ Like any presentation, your audience has 2 focuses point you have to deal with :
 * The screen you are using to broadcast your demonstration
 
 You want to make sure they simultaneously see what you do and hear what you say. 
-* Describe what you do as you do it. If their no gesture linked to what you are saying, it might not be worth saying it at all. 
+* Describe what you do as you do it. If there is no gesture linked to what you are saying, it might not be worth saying it at all. 
 * Don't excessively move your mouse or click anywhere. Fight your usual nervous tics. They should only see what needs to be done.
