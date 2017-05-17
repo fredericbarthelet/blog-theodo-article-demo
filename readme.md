@@ -19,7 +19,7 @@ A good demonstration is a prepared demonstration.
 
 The guide line of your demonstration is the past sprint goal. But you shall adapt the features you want to show depending on your stakeholders presence during the last ceremonies.
 
-Insist on the lacking points the product was missing before your sprint, and how beneficial your team is for your client's product
+Insist on the weak points the product had before the sprint's developpment, and how beneficial your team is for your client's product
 > Before your team had to manually follow up company's client on an excel spreadsheet, they can now add, edit and delete customers with only a few clicks.
 
 None of the features you developped during the past sprint is not worth being demonstrated. The day before, read through the done column of your sprint and categorize the developped features based on a normal use scenario of your application.
