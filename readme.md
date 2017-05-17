@@ -37,12 +37,12 @@ A good demonstration is a prepared demonstration.
 #### Minimize as much as possible the quantity of tasks to be run before your demonstration can start :
 * If possible, unwind your full demonstration beforehand to ensure no glitch will surprize you during the real thing.
 * Add the entities you may need for the purpose of the demonstration to your database the day before.
-* Make sure your staging environment is up and running. This environment is most likely the easiest one to play with. You don't want to introduce fake data in production during your demonstration, neither suffering from your virtual machine being slower than the production site is.
+* Make sure your staging environment is up and running. This environment, being the most flexible, is most likely the easiest one to play with. You don't want to introduce fake data in production during your demonstration, neither suffering from your local machine being slower than the production is.
 * Make sure you are connected to internet. You would not want to start your demonstration with problems.
 
-The guide line of your demonstration is the past sprint goal. But you shall adapt the features you want to show depending on your stakeholders presence during the last ceremonies.
+The guide line of your demonstration is the *past sprint goal*. But you shall adapt the features you want to show depending on your stakeholders presence during the last ceremonies.
 
-Insist on the weak points the product had before the sprint's developpment, and how beneficial your team is for your client's product
+Insist on the weak points the product had before this sprint's developpment, and how beneficial your team is for your client's product.
 > Before your team had to manually follow up company's client on an excel spreadsheet, they can now add, edit and delete customers with only a few clicks.
 
 None of the features you developped during the past sprint isn't worth being demonstrated. The day before, read through the done column of your sprint and categorize the developped features based on a normal use scenario of your application.
