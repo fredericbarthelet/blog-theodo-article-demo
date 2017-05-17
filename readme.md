@@ -18,10 +18,11 @@ What do you need :
 A good demonstration is a prepared demonstration.
 
 The guide line of your demonstration is the past sprint goal. But you shall adapt the features you want to show depending on your stakeholders presence during the last ceremonies.
-None of the features you developped during the past sprint is not worth being demonstrated. The day before, read through the done column of your sprint and categorize the developped features based on a normal use scenario of your application.
 
-Insist on the lacking points the product was missing before your sprint.
+Insist on the lacking points the product was missing before your sprint, and how beneficial your team is for your client's product
 > Before your team had to manually follow up company's client on an excel spreadsheet, they can now add, edit and delete customers with only a few clicks.
+
+None of the features you developped during the past sprint is not worth being demonstrated. The day before, read through the done column of your sprint and categorize the developped features based on a normal use scenario of your application.
 
 > When you click on the *add* button on the top left corner, you can add a new customer.
 > Once the customer added, you are redirected to the list of existing customer.
@@ -47,6 +48,6 @@ Minimize as much as possible the quantity of tasks to be run before your demonst
 
 Your audience has 2 focuses point you have to deal with :
 * You
-* The screen you are using to broadcast your navigation
+* The screen you are using to broadcast your demonstration
 
 You want to make sure p
