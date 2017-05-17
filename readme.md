@@ -11,8 +11,8 @@ Each ceremony can be a good oportunity to show off the most recent development o
 
 A demonstration is a privileged time shared between the complete developping team and stakeholders. It shall last no longer than 15 minutes.
 
-
 > I only believe what I can see.
+
 Tickets in a done column is one thing, the corresponding features demonstrated live is another. The demonstration shows the current state of your client's product and roots a commonly shared picture of what's remaining to be developped. It allows the stakeholders to acknowledge the success of the past sprint and it introduces the focal point of the developpments to be undertaken during the next sprint. It is the perfect introduction to a ceremony's review.
 
 What you need to run a demonstration :
