@@ -7,8 +7,15 @@ Each ceremony starts with a demonstration. Stakeholders, among which lies your s
 OPTION 2
 Each ceremony can be a good oportunity to show off the most recent development of the client product. The review is the time to make each stakeholder catch up with the latest improvements of their investment.
 
+## What is a demonstration ?
 
-What do you need :
+A demonstration is a privileged time shared between the complete developping team and stakeholders. It shall last no longer than 15 minutes.
+
+
+> I only believe what I can see.
+Tickets in a done column is one thing, the corresponding features demonstrated live is another. The demonstration shows the current state of your client's product and roots a commonly shared picture of what's remaining to be developped. It allows the stakeholders to acknowledge the success of the past sprint and it introduces the focal point of the developpments to be undertaken during the next sprint. It is the perfect introduction to a ceremony's review.
+
+What you need to run a demonstration :
 * Your computer. Only yours should be in use during the duration of the demonstration. Take this chance to involve as many persons as possible in your demonstration.
 * A large screen or a projector to display your demonstration onto.
 * Your stakeholders, especially your sponsor.
@@ -16,6 +23,17 @@ What do you need :
 ## Prepare your demonstration
 
 A good demonstration is a prepared demonstration.
+
+#### What you absolutely want to avoid during your demonstration :
+* A glitch : everything shall work as planned
+* An internet outage : it will delay your review, and consequently will shift your ceremony's end
+* Off-handed, uninterested, distracted stakeholders : this demonstration is for them, and for them only
+
+#### Minimize as much as possible the quantity of tasks to be run before your demonstration can start :
+* If possible, unwind your full demonstration beforehand to ensure no glitch will surprize you during the real thing.
+* Add the entities you may need for the purpose of the demonstration to your database the day before.
+* Make sure your staging environment is up and running. This environment is most likely the easiest one to play with. You don't want to introduce fake data in production during your demonstration, neither suffering from your virtual machine being slower than the production site is.
+* Make sure you are connected to internet. You would not want to start your demonstration with problems.
 
 The guide line of your demonstration is the past sprint goal. But you shall adapt the features you want to show depending on your stakeholders presence during the last ceremonies.
 
@@ -41,10 +59,6 @@ When you need to fill in fake data to demonstrate your feature, use stakeholders
 > You're redirected to a new page asking you to fill in the customer's name and address.
 > Edouard, let's fill you in !
 > ...
-
-Minimize as much as possible the quantity of tasks to be run before your demonstration can start. 
-* Boot your virtual machine. 
-* Add the entities you may need for the purpose of the demonstration to your database.
 
 Your audience has 2 focuses point you have to deal with :
 * You
