@@ -45,7 +45,7 @@ The guide line of your demonstration is the *past sprint goal*. But you shall ad
 Insist on the weak points the product had before this sprint's developpment, and how beneficial your team is for your client's product.
 > Before your team had to manually follow up company's client on an excel spreadsheet, they can now add, edit and delete customers with only a few clicks.
 
-None of the features you developped during the past sprint isn't worth being demonstrated. The day before, read through the done column of your sprint and categorize the developped features based on a normal use scenario of your application.
+None of the features you developped during the past sprint isn't worth being demonstrated. The day before, read through the done column of your sprint and order the developped features based on a normal use scenario of the product.
 
 > When you click on the *add* button on the top left corner, you can add a new customer.
 > Once the customer added, you are redirected to the list of existing customer.
