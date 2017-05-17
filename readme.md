@@ -20,7 +20,7 @@ It allows the stakeholders to :
 
 It is the perfect introduction to a ceremony's review.
 
-What you need to run a demonstration :
+#### What you need to run a demonstration :
 * Your computer. Only yours should be in use during the duration of the demonstration. Take this chance to involve as many persons as possible in your demonstration.
 * A large screen or a projector to display your demonstration onto.
 * Your stakeholders, especially your sponsor.
