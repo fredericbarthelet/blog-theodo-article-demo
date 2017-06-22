@@ -1,6 +1,6 @@
 # How to impress your stakeholders with an outstanding demonstration
 
-Each ceremony can be a good oportunity to show off the most recent development of the product. The review is the time to make each stakeholder catch up with the latest improvements of their investment.
+Each ceremony is a good oportunity to show off the most recent development of the product. The review is the time to make each stakeholder catch up with the latest improvements of their investment.
 
 ## What is a demonstration ?
 
@@ -8,38 +8,40 @@ A demonstration is a privileged time shared between the scrum team and the stake
 
 > I only believe what I can see.
 
-Tickets in a done column is one thing, the corresponding features demonstrated live is another - reecrire pour dire que le stakeholder suit pas au quotidien mais veut voir l'application en live. The demonstration shows the current state of the product and roots a commonly shared picture of what's remaining to be developped. 
+The stakeholders are not following on a daily basis the evolution of the product. They want to see the result of your work. The demonstration shows the current state of the product and what's remaining to be developped. 
 It allows the stakeholders to:
-* acknowledge the success of the past sprint 
-* introduce the focal point of the developpments to be undertaken during the next sprint. 
+* acknowledge the success of the past sprint.
+* introduce the focal point of the developments to be undertaken during the next sprint. 
 
 It is the perfect introduction to a ceremony's review.
-
-#### What you need to run a demonstration:
-* Your stakeholders, especially your sponsor.
-* Your computer. You need everyone's focus, only your computer should be in use during the duration of the demonstration.
-* A large screen or a projector to display your demonstration onto.
-
-#### What you absolutely want to avoid during your demonstration:
-* A glitch : everything shall work as planned
-* An internet outage : it will delay your review, and consequently will shift your ceremony's end
-* Off-handed, uninterested, distracted stakeholders: this demonstration is for them, and for them only
 
 ## Prepare your demonstration
 
 A good demonstration is a prepared demonstration.
 
-#### Minimize as much as possible the quantity of tasks to be run before your demonstration can start - reecrire pour etre en ligne avec la liste ci-après:
-* If possible, unwind your full demonstration beforehand to ensure no glitch will surprize you during the real thing.
-* Add the entities you may need for the purpose of the demonstration to your database the day before.
-* Make sure your on an iso-prod environement - staging environment is up and running. Do not do it locally.
-* Make sure you are connected to internet. You would not want to start your demonstration with problems.
+#### What you absolutely want to avoid during your demonstration:
+* A glitch : everything shall work as planned
+* An internet outage or a malfunctionning server : it will delay your review, and consequently will shift your ceremony's end
+* Off-handed, uninterested, distracted stakeholders: this demonstration is for them, and for them only
+
+In order to avoid previously mentionned situations, the following steps will maximize your chances of succes.
+
+#### Required material to run a demonstration:
+* Your stakeholders, especially your sponsor.
+* Your application running. Avoid local environment (too slow) and production (you can't master production data)
+* Your computer. You need your client's focus, their don't need their computer.
+* A large screen or a projector to display your demonstration onto.
+
+#### Preparation of your demonstration
+* *You need to know what to show :* check when your sponsor was present at a demo before this one. Gather all developments carried out during this period of time.
+* *You need to master the data you will use to demonstrate :* add the entities you may need for the purpose of the demonstration to your environment database the day before.
+* *You need to master the behavior of your application :* if possible, unwind your full demonstration beforehand to ensure no glitch will surprize you during the real thing.
 
 ## Run your demonstration
 
 ### Who should present ?
 
-Ideally, a developper of the technical team should lead the demonstration.
+Ideally, a developper should lead the demonstration.
 * Scrum master may struggle preparing the working environment for the demonstration
 * Architects might not be aware of the full range of the features developped during the sprint, as they are commited to multiple projects at once
 
