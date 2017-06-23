@@ -81,9 +81,10 @@ Our action was to **let the sponsor run a prepared demonstration scenario** duri
 
 ## FAQ
 
-#### The current development is mainly technical, I have nothing to show to my sponsor. How should I run my demonstration ?
+#### The current development is mainly technical, I have nothing to show to my sponsor. How should I run my demonstration?
 
-On InDx, a SG project, we were opening a REST API dedicated to other SG applications during 6 sprints. We used different supports to demonstrate our work:
-* Our MEP flowchart, particular to SG projects, allowed us to show off the accomplished steps and the remaining ones in order to ensure the application would be in production before the end of the project. Use color to identify the newly checked items.
-* We built diagrams showing the API workflow, emphazing which part of the workflow was not developed before the sprint.
+You need visual indicators to cast light on what's not visible in your application.
+On InDx, a SG project, we were opening a REST API dedicated to other SG applications during 6 sprints. |We used different supports to demonstrate our work:|
 * We used Postman to simulate application calls to the API and show the received answer.
+* We use flowcharts with green/red indicators showing the progress of technical requirements.
+* We built diagrams showing the API workflow, emphazing which part of the workflow was not developed before the sprint.
