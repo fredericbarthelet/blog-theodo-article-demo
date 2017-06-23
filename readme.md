@@ -17,9 +17,9 @@ It is the perfect introduction to a ceremony's review.
 A good demonstration is a prepared demonstration.
 
 #### What you absolutely want to avoid during your demonstration:
-* A glitch: everything shall work as planned
+* A glitch
 * An internet outage or a malfunctionning server: it will delay your review, and consequently will shift your ceremony's end
-* Off-handed, uninterested, distracted stakeholders: this demonstration is for them, and for them only
+* Off-handed, uninterested, distracted stakeholders
 
 In order to avoid previously mentionned situations, the following steps will maximize your chances of succes.
 
