@@ -2,7 +2,7 @@
 
 Each ceremony is a good oportunity to show off the most recent development of the product. The review is the time to make each stakeholder catch up with the latest improvements of their investment.
 
-## What is a demonstration ?
+## What is a demonstration?
 
 A demonstration is a privileged time shared between the scrum team and the stakeholders. It shall last no longer than 15 minutes.
 
