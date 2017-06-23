@@ -23,28 +23,37 @@ A good demonstration is a prepared demonstration.
 
 In order to avoid previously mentionned situations, the following steps will maximize your chances of succes.
 
-#### Required material to run a demonstration:
+#### Key elements:
 * **Your stakeholders**, especially your sponsor.
-* **Your application running**. Avoid local environment (too slow) and production (you can't control production data and don't want to interfere with it)
-* **Your computer**. You need your client's focus, their don't need their computer.
+* **Your application running**. Don't do it on local environment (potentially not stable) or production (you can't control production data and don't want to interfere with it).
+* **No source of distraction**. You need your client's focus, they don't need their computer.
 * **A large screen** or a projector to display your demonstration onto.
+* **To create tickets**. A member of the team should create tickets following stakeholders' comments.
 
 #### Preparation of your demonstration
-* **You need to know what to show:** check when your sponsor was present at a demo before this one. Gather all developments carried out during this period of time.
-* **You need to prepare your computer:** preload the application in one of your web browser tab. Turn on the *Do not disturb* mode of your notification center.
-* **You need to master the data you will use to demonstrate:** add the entities you may need for the purpose of the demonstration to your environment database the day before.
-* **You need to master the behavior of your application:** if possible, unwind your full demonstration beforehand to ensure no glitch will surprize you during the real thing.
+
+You need to:
+
+* **know what to show:** everything developped since last demo with the stakeholders.
+* **prepare your computer:** opened application and notification disabled.
+* **have realistic data:** load needed data the day before.
+* **rehearse:** to avoid glitches and to run it smoothly.
 
 ## Run your demonstration
 
-### Who should present ?
+### Who should present?
 
-Ideally, **a developper should lead the demonstration**.
-* Scrum master may struggle preparing the working environment for the demonstration
-* Architects might not be aware of the full range of the features developped during the sprint, as they are commited to multiple projects at once
+Anyone confident with the presented features. Ideally, a developper because he knows the application best.
+
+--- A changer d'endroit
+Alternatively, your sponsor can run the demonstration. You will ensure his full attention.
 
 On AssuranceVie.com, we suffered from a distracted sponsor during one of our review. It led to a change of sprint goal during the sprint after the sponsor realized we were not in line with his idea of the product's priority.
 Our action was to **let the sponsor run a prepared demonstration scenario** during the next review, ensuring his full attention for the rest of the review.
+
+
+* When you need to fill in fake data to demonstrate your feature, **use stakeholders related fake data**. For exemple, if you need to add a new customer, act as if your new customer was your sponsor. Saying his name out loud will catch his attention.
+----
 
 ### How to present ?
 
@@ -52,24 +61,20 @@ Our action was to **let the sponsor run a prepared demonstration scenario** duri
 
 * **Emphasize the added value of your work:** insist on the weak points the product had before the developments, and how beneficial your team is for your client's product.
 
-* **Don't use shortcut during your demonstration.** The persons that will use your product may not have your skills. During your demonstration, you are no longer a developper. **You endorse the role of the final user of the product, act accordingly.**
-They will feel outsided if they can't reproduce your exact gestures. Don't skip any part of the process you may assume obvious. You are familiar with the new features of the product, your stakeholders aren't.
+* **Endorse the role of the final user of the product, act accordingly.** The persons that will use your product may not have your skills. They will feel outsided if they can't reproduce your exact gestures.
 
 1. Do not modify the url by hand (changing an id or any other parameter).
 2. Do not use your url's history. Show how to get to your demonstration from the application starting point.
-3. Do not use form auto-fillers
+3. Do not use form auto-fillers.
 
-* **Describe what you do as you're doing it**. You need to present both visually and orally to maximize your sponsor's attention.
+* **Describe what you do as you do it**. You need to present both visually and orally to maximize your sponsor's attention. **Quoi décrire en démonstration?**
 
-* **Show only what needs to be demonstrated**. Do not quit the demonstration. One of your collegue can use his computer to write down sponsor comment or next sprint tickets. Don't excessively move your mouse or click anywhere. Turn off your notifications before the review. 
-
-* When you need to fill in fake data to demonstrate your feature, **use stakeholders related fake data**. For exemple, if you need to add a new customer, act as if your new customer was your sponsor. Saying his name out loud will catch his attention.
+* **Stay focus on your presentation.** Do not quit the demonstration. Don't excessively move your mouse or click everywhere. 
 
 * **Increase the value of the MEP** (if any was done during the sprint) at the end of your demonstration, concluding that all features shown during the demonstration are **now in production**. The value you added is already available to your client's final user.
+** GIF It's available today !**
 
-### How to conclude ?
-
-The demonstration is the starting point of the discussion regarding development to be undertaken during the next sprint. This discussion may already have started during the demonstration (uncomplete processes, slight modifications required by the sponsor).
+### How to conclude?
 
 * **Ask your sponsors if they have questions/remarks**
 * **Switch back to trello to start the review**
