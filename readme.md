@@ -6,8 +6,6 @@ Each ceremony is a good oportunity to show off the most recent development of th
 
 A demonstration is a privileged time shared between the scrum team and the stakeholders. It shall last no longer than 15 minutes.
 
-> I only believe what I can see.
-
 The stakeholders are not following on a daily basis the evolution of the product. They want to see the result of your work. The demonstration shows the current state of the product and what's remaining to be developped. 
 It allows the stakeholders to:
 * acknowledge the success of the past sprint.
